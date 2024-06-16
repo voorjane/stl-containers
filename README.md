@@ -13,7 +13,7 @@ To use `array` include `s21_containerplus.h` header file
 
 ## Makefile targets
 
-`make all` - Tests for the library
-`make clang` - linter
-`make gcov_report` - Tests coverage report for the library
-`make valgrind` - Leaks check for the library
+- `make all` - Tests for the library
+- `make clang` - linter
+- `make gcov_report` - Tests coverage report for the library
+- `make valgrind` - Leaks check for the library
